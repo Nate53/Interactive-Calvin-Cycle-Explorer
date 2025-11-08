@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Calvin Cycle Explorer",
+  "description": "An educational application that provides an animated visualization of the Calvin cycle, complete with step-by-step explanations, to help students understand this complex biological process.",
+  "requestFramePermissions": []
+}
